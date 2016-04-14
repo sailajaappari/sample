@@ -1,4 +1,3 @@
-data.txt
 Andra Pradesh
 Karnataka
 Tamilanadu
